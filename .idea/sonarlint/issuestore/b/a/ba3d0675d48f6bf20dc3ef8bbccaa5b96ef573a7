@@ -1,0 +1,10 @@
+
+r	php:S1192<"VDefine a constant instead of duplicating this literal "admin.prospects.index" 4 times.(‡îä…8”ò‰æö.
+f	php:S1192V"JDefine a constant instead of duplicating this literal "telephone" 3 times.(Å¨¢¡8ë§ôåö.
+d	php:S1192e"HDefine a constant instead of duplicating this literal "success" 5 times.(¶ï¸€8ŽÖüåö.
+j	php:S1192!"IDefine a constant instead of duplicating this literal "addresse" 7 times.(éÐ—ýÿÿÿÿ8¦ÔÚåö.
+x	php:S1192˜"VDefine a constant instead of duplicating this literal "admin.prospects.trash" 3 times.(’êŽÖÿÿÿÿÿ8ä…”æö.
+j	php:S1192U"IDefine a constant instead of duplicating this literal "required" 4 times.(¹öðÓùÿÿÿÿ8ø…óåö.
+Lphp:S836#"2Review the data-flow - use of uninitialized value.(Ö÷Ã8µ´Öåö.
+Z	php:S1854$"9Remove this useless assignment to local variable '$data'.(±¤ýÂüÿÿÿÿ8ŽÑÙúö.
+Z	php:S1854+"9Remove this useless assignment to local variable '$data'.(±¤ýÂüÿÿÿÿ8ŽÑÙúö.

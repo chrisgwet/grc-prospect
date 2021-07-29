@@ -1,0 +1,10 @@
+
+a	php:S1192"LDefine a constant instead of duplicating this literal "permissions" 4 times.(Ø®×‘
+_php:S112e"FDefine and throw a dedicated exception instead of using a generic one.(ø±şúÿÿÿÿ
+`	php:S1192("KDefine a constant instead of duplicating this literal "model_type" 6 times.(†ÄèÎ
+b	php:S11926"HDefine a constant instead of duplicating this literal "role_id" 6 times.(¯šóıÿÿÿÿ
+Zphp:S112"FDefine and throw a dedicated exception instead of using a generic one.(³Ğû±
+b	php:S1192/"HDefine a constant instead of duplicating this literal "cascade" 4 times.(÷È‹şÿÿÿÿ
+e	php:S1192)"PDefine a constant instead of duplicating this literal "model_morph_key" 6 times.(§«‹ÿ
+`	php:S1192"FDefine a constant instead of duplicating this literal "roles" 4 times.(üÔÊûÿÿÿÿ
+c	php:S1192&"NDefine a constant instead of duplicating this literal "permission_id" 6 times.(±î“

@@ -1,0 +1,6 @@
+postgres://dftoirkkboyidv:dbfa0c5cb006af5590ff9ad9dd909ed5fdab317c97f21608269376896582a48d@ec2-52-22-161-59.compute-1.amazonaws.com:5432/dduhvp7lvun3p7
+user: dftoirkkboyidv
+pass: dbfa0c5cb006af5590ff9ad9dd909ed5fdab317c97f21608269376896582a48d
+host: ec2-52-22-161-59.compute-1.amazonaws.com
+port: 5432
+database: dduhvp7lvun3p7
